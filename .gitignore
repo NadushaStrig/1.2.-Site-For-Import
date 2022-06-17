@@ -2,4 +2,4 @@
 *.*_old
 Thumbs.db
 /tmp/
-/img/*.*_backup
+*.*_backup
